@@ -110,9 +110,10 @@
    <text xml:lang="eng">
       <front>
          <div type="title_page">
-            <pb facs="tcp:049118_0000_10265BFF915BEC88"/>
-            <pb facs="tcp:049118_0001_10263B2A2BB5C220" rendition="simple:additions"/>
-            <pb facs="tcp:049118_0001_10263B2A2BB5C220"/>
+            <pb facs="unknown:049118_0000_10265BFF915BEC88"/>
+            <pb facs="unknown:049118_0001_10263B2A2BB5C220"
+                rendition="simple:additions"/>
+            <pb facs="unknown:049118_0001_10263B2A2BB5C220"/>
             <head>MOTHER GOOSE's MELODY; OR, <hi>Sonnets for the Cradle.</hi>
             </head>
             <p>IN TWO PARTS.</p>
@@ -128,7 +129,7 @@
                </gap> 1800.</p>
          </div>
          <div type="preface">
-            <pb facs="tcp:049118_0002_10263B36D070EC60"/>
+            <pb facs="unknown:049118_0002_10263B36D070EC60"/>
             <head>PREFACE.</head>
             <byline>By a very great Writer of very Little Books.</byline>
             <p>MUCH might be ſaid in favour of this collection, but as we have no room for critical diſquiſitions, we ſhall only obſerve to our readers, that the cuſtom of ſinging theſe ſongs and lullabies to children is of great antiquity. It is even as old as the time of the ancient <hi>Druids. Garacta<g ref="char:EOLhyphen"/>cus,</hi> King of the <hi>Britons,</hi> was rocked in his Cradle in the Iſle of <hi>Mora,</hi> now called <hi>Angleſea,</hi> and tuned to ſleep by ſome of theſe ſoporiferous ſonnets. As the beſt things, however, may be made <gap reason="illegible: indecipherable" extent="1 word">
@@ -136,10 +137,10 @@
                </gap> uſe of, ſo the kind of compoſi<g ref="char:EOLhyphen"/>tions has been employed in <gap reason="illegible: indecipherable" extent="1 span">
                   <desc>〈…〉</desc>
                </gap> When that
-<pb n="vi" facs="tcp:049118_0003_10265B94F3FC0F48"/>great prince turned his arms againſt <hi>France,</hi> he compoſed the following march to lead his Troops to Battle, well knowing that Muſic had often <gap reason="music">
+<pb n="vi" facs="unknown:049118_0003_10265B94F3FC0F48"/>great prince turned his arms againſt <hi>France,</hi> he compoſed the following march to lead his Troops to Battle, well knowing that Muſic had often <gap reason="music">
                   <desc>〈♫〉</desc>
                </gap>
-               <pb n="vii" facs="tcp:049118_0003_10265B94F3FC0F48"/>the power of inſpiring courage, eſpe<g ref="char:EOLhyphen"/>cially in the minds of good men. Of this his enemies took advantage, and, as our happy nation, even at that time, was never without a faction, ſome of the male contents adopted the follow<g ref="char:EOLhyphen"/>ing Words to the King's own March, in order to ridicule his Majeſty, and to ſhew the Folly and Impoſſibility of his Undertaking.</p>
+               <pb n="vii" facs="unknown:049118_0003_10265B94F3FC0F48"/>the power of inſpiring courage, eſpe<g ref="char:EOLhyphen"/>cially in the minds of good men. Of this his enemies took advantage, and, as our happy nation, even at that time, was never without a faction, ſome of the male contents adopted the follow<g ref="char:EOLhyphen"/>ing Words to the King's own March, in order to ridicule his Majeſty, and to ſhew the Folly and Impoſſibility of his Undertaking.</p>
             <q>
                <l>There was an old woman toſs'd in a blanket,</l>
                <l>Seventeen times as high as the moon;</l>
@@ -155,7 +156,7 @@
                </l>
             </q>
             <p>
-               <pb n="viii" facs="tcp:049118_0004_10265B996C729210"/>
+               <pb n="viii" facs="unknown:049118_0004_10265B996C729210"/>
 Here the king is repreſented as an old woman, engaged in a purſuit the moſt abſurd and extravagant imagin<g ref="char:EOLhyphen"/>able; but when he had routed the whole <hi>French</hi> army at the battle of <hi>Agincourt,</hi> taking their king and the flower of their nobility priſoners, and with ten thouſand men only made himſelf maſter of their kingdom; the very men, who had ridiculed him be<g ref="char:EOLhyphen"/>fore, began to think nothing was too arduous for him to ſurmount, they therefore can celled the former ſonnet, which they were now aſhamed of, and ſubſtituted this in its ſtead, which, you will pleaſe to obſerve, goes to the ſame tune.</p>
             <q>
                <l>So vaſt is the proweſs of <hi>Harry</hi> the <hi>Great,</hi>
@@ -164,7 +165,7 @@ Here the king is repreſented as an old woman, engaged in a purſuit the moſt a
                <l>Or a lion familiarly take by the tooth,</l>
                <l>And lead him about as you lead a baboon.</l>
                <l>
-                  <pb n="ix" facs="tcp:049118_0004_10265B996C729210"/>
+                  <pb n="ix" facs="unknown:049118_0004_10265B996C729210"/>
 All princes and potentates under the ſun,</l>
                <l>Through fear, into corners and holes away run;</l>
                <l>While nor dangers nor dread his ſwift progreſs retards,</l>
@@ -174,12 +175,12 @@ All princes and potentates under the ſun,</l>
                </q>
             </p>
             <p>We cannot conclude without ob<g ref="char:EOLhyphen"/>ſerving,
-<pb n="x" facs="tcp:049118_0005_10265B9AF9CBE218"/>the great probability there is, that the cuſtom of making <hi>Nonſenſe Verſes</hi> in our ſchools was borrowed from this practice among the old <hi>Bri<g ref="char:EOLhyphen"/>tiſh</hi> nurſes; they have, indeed, been always the firſt preceptors of the youth of this kingdom, and from them the rudiments of taſte and learning are naturally derived. Let none there<g ref="char:EOLhyphen"/>fore ſpeak irreverently of this ancient maternity, as they may be conſidered, as the great grandmothers of ſcience and knowledge.</p>
+<pb n="x" facs="unknown:049118_0005_10265B9AF9CBE218"/>the great probability there is, that the cuſtom of making <hi>Nonſenſe Verſes</hi> in our ſchools was borrowed from this practice among the old <hi>Bri<g ref="char:EOLhyphen"/>tiſh</hi> nurſes; they have, indeed, been always the firſt preceptors of the youth of this kingdom, and from them the rudiments of taſte and learning are naturally derived. Let none there<g ref="char:EOLhyphen"/>fore ſpeak irreverently of this ancient maternity, as they may be conſidered, as the great grandmothers of ſcience and knowledge.</p>
          </div>
       </front>
       <body>
          <div type="songs">
-            <pb facs="tcp:049118_0005_10265B9AF9CBE218"/>
+            <pb facs="unknown:049118_0005_10265B9AF9CBE218"/>
             <head>Mother GOOSE's Melody.</head>
             <p>
                <figure/>
@@ -196,7 +197,7 @@ All princes and potentates under the ſun,</l>
                   <l>For the leaſt ſaid is ſooneſt mended, ded, ded.</l>
                </lg>
                <lg n="2">
-                  <pb n="12" facs="tcp:049118_0006_10265BA161ECDC38"/>
+                  <pb n="12" facs="unknown:049118_0006_10265BA161ECDC38"/>
                   <head>II.</head>
                   <l>Then replied the little Maid,</l>
                   <l>Little Sir, you've little ſaid</l>
@@ -219,7 +220,7 @@ All princes and potentates under the ſun,</l>
                   <l>Then the little Maid replied,</l>
                   <l>Should I be your little bride,</l>
                   <l>
-                     <pb n="13" facs="tcp:049118_0006_10265BA161ECDC38"/>
+                     <pb n="13" facs="unknown:049118_0006_10265BA161ECDC38"/>
 Pray what muſt we have for to eat, eat, eat,</l>
                   <l>Will the Flame that you're ſo rich in,</l>
                   <l>Light a Fire in the Kitchen,</l>
@@ -240,7 +241,7 @@ Pray what muſt we have for to eat, eat, eat,</l>
                   </l>
                </lg>
                <lg n="6">
-                  <pb n="14" facs="tcp:049118_0007_10265BA2E5DDE0D0"/>
+                  <pb n="14" facs="unknown:049118_0007_10265BA2E5DDE0D0"/>
                   <head>VI.</head>
                   <l>Then the little Man ſo gent,</l>
                   <l>Made the little Maid relent,</l>
@@ -251,7 +252,7 @@ Pray what muſt we have for to eat, eat, eat,</l>
                </lg>
             </div>
             <div type="song">
-               <pb n="15" facs="tcp:049118_0007_10265BA2E5DDE0D0"/>
+               <pb n="15" facs="unknown:049118_0007_10265BA2E5DDE0D0"/>
                <p>
                   <figure/>
                </p>
@@ -269,7 +270,7 @@ Pray what muſt we have for to eat, eat, eat,</l>
                      <hi>Betty Winckle</hi> ſhe</l>
                   <l>Laid down and dy'd;</l>
                   <l>
-                     <pb n="16" facs="tcp:049118_0008_10265BA46CD20F60"/>
+                     <pb n="16" facs="unknown:049118_0008_10265BA46CD20F60"/>
 So there was an find of one, two and three,</l>
                   <l>
                      <hi>Johnny Winckle</hi> He,</l>
@@ -282,7 +283,7 @@ So there was an find of one, two and three,</l>
                   <hi>Wall</hi>'s Syſtem of Senſe.</bibl>
             </div>
             <div type="song">
-               <pb n="17" facs="tcp:049118_0008_10265BA46CD20F60"/>
+               <pb n="17" facs="unknown:049118_0008_10265BA46CD20F60"/>
                <p>
                   <figure/>
                </p>
@@ -299,7 +300,7 @@ So there was an find of one, two and three,</l>
                   <l>Yet did'nt you ſee,</l>
                   <l>What naughty tricks they put upon me;</l>
                   <l>
-                     <pb n="18" facs="tcp:049118_0009_10265BA6378DAA18"/>
+                     <pb n="18" facs="unknown:049118_0009_10265BA6378DAA18"/>
 They broke my Pitcher,</l>
                   <l>And ſpilt the Water,</l>
                   <l>And hufft my Mother,</l>
@@ -311,7 +312,7 @@ They broke my Pitcher,</l>
                   <hi>Winſlow</hi>'s View of Bath.</bibl>
             </div>
             <div type="song">
-               <pb n="19" facs="tcp:049118_0009_10265BA6378DAA18"/>
+               <pb n="19" facs="unknown:049118_0009_10265BA6378DAA18"/>
                <p>
                   <figure/>
                </p>
@@ -327,7 +328,7 @@ They broke my Pitcher,</l>
                </bibl>
             </div>
             <div type="song">
-               <pb n="20" facs="tcp:049118_0010_10265BACE5DE8CB0"/>
+               <pb n="20" facs="unknown:049118_0010_10265BACE5DE8CB0"/>
                <p>
                   <figure/>
                </p>
@@ -346,7 +347,7 @@ They broke my Pitcher,</l>
                   <hi>Maxim.</hi> Thoſe arts are the moſt val<g ref="char:EOLhyphen"/>uable which are of the greateſt uſe.</p>
             </div>
             <div type="song">
-               <pb n="21" facs="tcp:049118_0010_10265BACE5DE8CB0"/>
+               <pb n="21" facs="unknown:049118_0010_10265BACE5DE8CB0"/>
                <p>
                   <figure/>
                </p>
@@ -363,7 +364,7 @@ They broke my Pitcher,</l>
                </bibl>
             </div>
             <div type="song">
-               <pb n="22" facs="tcp:049118_0011_10265BAE6D1DCE00"/>
+               <pb n="22" facs="unknown:049118_0011_10265BAE6D1DCE00"/>
                <p>
                   <figure/>
                </p>
@@ -379,7 +380,7 @@ They broke my Pitcher,</l>
                   <hi>Maxim.</hi> Thoſe who are given ſo tell all they know, generally tell more than they know.</p>
             </div>
             <div type="song">
-               <pb n="23" facs="tcp:049118_0011_10265BAE6D1DCE00"/>
+               <pb n="23" facs="unknown:049118_0011_10265BAE6D1DCE00"/>
                <p>
                   <figure/>
                </p>
@@ -399,7 +400,7 @@ They broke my Pitcher,</l>
                </bibl>
             </div>
             <div type="song">
-               <pb n="24" facs="tcp:049118_0012_10265BAFF21BB2A0"/>
+               <pb n="24" facs="unknown:049118_0012_10265BAFF21BB2A0"/>
                <p>
                   <figure/>
                </p>
@@ -415,7 +416,7 @@ They broke my Pitcher,</l>
                </bibl>
             </div>
             <div type="song">
-               <pb n="25" facs="tcp:049118_0012_10265BAFF21BB2A0"/>
+               <pb n="25" facs="unknown:049118_0012_10265BAFF21BB2A0"/>
                <p>
                   <figure/>
                </p>
@@ -437,7 +438,7 @@ They broke my Pitcher,</l>
                   </bibl> He that injures one threatens an Hundred.</p>
             </div>
             <div type="song">
-               <pb n="26" facs="tcp:049118_0013_10265BB198E52F28"/>
+               <pb n="26" facs="unknown:049118_0013_10265BB198E52F28"/>
                <p>
                   <figure/>
                </p>
@@ -458,7 +459,7 @@ They broke my Pitcher,</l>
                </bibl>
             </div>
             <div type="song">
-               <pb n="27" facs="tcp:049118_0013_10265BB198E52F28"/>
+               <pb n="27" facs="unknown:049118_0013_10265BB198E52F28"/>
                <p>
                   <figure/>
                </p>
@@ -477,7 +478,7 @@ They broke my Pitcher,</l>
                </bibl>
             </div>
             <div type="song">
-               <pb n="28" facs="tcp:049118_0014_10265BB87029DD50"/>
+               <pb n="28" facs="unknown:049118_0014_10265BB87029DD50"/>
                <p>
                   <figure/>
                </p>
@@ -490,7 +491,7 @@ They broke my Pitcher,</l>
                <p>Yes ſhe can ſee that you are naughty, and don't mind your Book.</p>
             </div>
             <div type="song">
-               <pb n="29" facs="tcp:049118_0014_10265BB87029DD50"/>
+               <pb n="29" facs="unknown:049118_0014_10265BB87029DD50"/>
                <p>
                   <figure/>
                </p>
@@ -506,7 +507,7 @@ They broke my Pitcher,</l>
                </bibl>
             </div>
             <div type="song">
-               <pb n="30" facs="tcp:049118_0015_10265BB9F8FEBE78"/>
+               <pb n="30" facs="unknown:049118_0015_10265BB9F8FEBE78"/>
                <p>
                   <figure/>
                </p>
@@ -526,7 +527,7 @@ They broke my Pitcher,</l>
                </bibl>
             </div>
             <div type="song">
-               <pb n="31" facs="tcp:049118_0015_10265BB9F8FEBE78"/>
+               <pb n="31" facs="unknown:049118_0015_10265BB9F8FEBE78"/>
                <p>
                   <figure/>
                </p>
@@ -542,7 +543,7 @@ They broke my Pitcher,</l>
                   <hi>Maxim.</hi> Knowledge is a Treaſure, but Practice is the Key to it.</p>
             </div>
             <div type="song">
-               <pb n="32" facs="tcp:049118_0016_10265BBBD5447158"/>
+               <pb n="32" facs="unknown:049118_0016_10265BBBD5447158"/>
                <p>
                   <figure/>
                </p>
@@ -557,7 +558,7 @@ They broke my Pitcher,</l>
                <p>It muſt be a little Dog that laugh'd, for a great Dog would be aſhamed to laugh at ſuch Nonſenſe.</p>
             </div>
             <div type="song">
-               <pb n="33" facs="tcp:049118_0016_10265BBBD5447158"/>
+               <pb n="33" facs="unknown:049118_0016_10265BBBD5447158"/>
                <p>
                   <figure/>
                </p>
@@ -572,7 +573,7 @@ They broke my Pitcher,</l>
                <p>There's a good Boy, eat up your Pie and hold your Tongue; for Silence is the Sign of Wiſdom.</p>
             </div>
             <div type="song">
-               <pb n="34" facs="tcp:049118_0017_10265BBEC7E20D18"/>
+               <pb n="34" facs="unknown:049118_0017_10265BBEC7E20D18"/>
                <p>
                   <figure/>
                </p>
@@ -586,7 +587,7 @@ They broke my Pitcher,</l>
                </p>
             </div>
             <div type="song">
-               <pb n="35" facs="tcp:049118_0017_10265BBEC7E20D18"/>
+               <pb n="35" facs="unknown:049118_0017_10265BBEC7E20D18"/>
                <p>
                   <figure/>
                </p>
@@ -603,7 +604,7 @@ They broke my Pitcher,</l>
                   <hi>Maxim.</hi> If the Coat be ever ſo fine that a Fool wears, it is ſtill but a Fool's Coat.</p>
             </div>
             <div type="song">
-               <pb n="36" facs="tcp:049118_0018_10265BC2E2EB7018"/>
+               <pb n="36" facs="unknown:049118_0018_10265BC2E2EB7018"/>
                <p>
                   <figure/>
                </p>
@@ -617,7 +618,7 @@ They broke my Pitcher,</l>
                   <hi>Maxim.</hi> Evil Company makes the Good bad, and the Bad worſe.</p>
             </div>
             <div type="song">
-               <pb n="37" facs="tcp:049118_0018_10265BC2E2EB7018"/>
+               <pb n="37" facs="unknown:049118_0018_10265BC2E2EB7018"/>
                <p>
                   <figure/>
                </p>
@@ -635,7 +636,7 @@ They broke my Pitcher,</l>
                   <hi>Maxim.</hi> The more you think of duing, the better you will live.</p>
             </div>
             <div type="song">
-               <pb n="38" facs="tcp:049118_0019_10265BC5A8CECAE8"/>
+               <pb n="38" facs="unknown:049118_0019_10265BC5A8CECAE8"/>
                <p>
                   <figure/>
                </p>
@@ -657,7 +658,7 @@ They broke my Pitcher,</l>
                   <hi>Sawmill</hi>'s Reports.</bibl>
             </div>
             <div type="song">
-               <pb n="39" facs="tcp:049118_0019_10265BC5A8CECAE8"/>
+               <pb n="39" facs="unknown:049118_0019_10265BC5A8CECAE8"/>
                <figure/>
                <lg>
                   <l>HUSH-a-by Baby</l>
@@ -674,7 +675,7 @@ They broke my Pitcher,</l>
                   <hi>Maxim.</hi> Content turns all it touches into Gold.</p>
             </div>
             <div type="song">
-               <pb n="40" facs="tcp:049118_0020_10265BC8ADCBE850"/>
+               <pb n="40" facs="unknown:049118_0020_10265BC8ADCBE850"/>
                <p>
                   <figure/>
                </p>
@@ -693,7 +694,7 @@ They broke my Pitcher,</l>
                   <hi>Bentley</hi> on the Sublime and Beautiful.</bibl>
             </div>
             <div type="song">
-               <pb n="41" facs="tcp:049118_0020_10265BC8ADCBE850"/>
+               <pb n="41" facs="unknown:049118_0020_10265BC8ADCBE850"/>
                <p>
                   <figure/>
                </p>
@@ -709,7 +710,7 @@ They broke my Pitcher,</l>
                   <hi>Maxim.</hi> The poor are ſeldomer ſick for Want of Food, than the Rich are by the Exceſs of it.</p>
             </div>
             <div type="song">
-               <pb n="42" facs="tcp:049118_0021_10265BCB3A704420"/>
+               <pb n="42" facs="unknown:049118_0021_10265BCB3A704420"/>
                <p>
                   <figure/>
                </p>
@@ -729,7 +730,7 @@ They broke my Pitcher,</l>
                   </gap> and loſeness with Poverty.</p>
             </div>
             <div type="song">
-               <pb n="43" facs="tcp:049118_0021_10265BCB3A704420"/>
+               <pb n="43" facs="unknown:049118_0021_10265BCB3A704420"/>
                <p>
                   <figure/>
                </p>
@@ -745,7 +746,7 @@ They broke my Pitcher,</l>
                   <hi>Maxim.</hi> Better go to Bed ſupperleſs, than riſe in Debt.</p>
             </div>
             <div type="song">
-               <pb n="44" facs="tcp:049118_0022_10265BCCC76591E8"/>
+               <pb n="44" facs="unknown:049118_0022_10265BCCC76591E8"/>
                <p>
                   <figure/>
                </p>
@@ -759,7 +760,7 @@ They broke my Pitcher,</l>
                   <hi>Maxim.</hi> If we do not flatter ourſelves, the Flat<g ref="char:EOLhyphen"/>tery of others would have no Effect.</p>
             </div>
             <div type="song">
-               <pb n="45" facs="tcp:049118_0022_10265BCCC76591E8"/>
+               <pb n="45" facs="unknown:049118_0022_10265BCCC76591E8"/>
                <p>
                   <figure/>
                </p>
@@ -773,7 +774,7 @@ They broke my Pitcher,</l>
                   <hi>Maxim.</hi> Point not at the Fanks of others with a foul Finger.</p>
             </div>
             <div type="song">
-               <pb n="46" facs="tcp:049118_0023_10265BCFA7F8BA20"/>
+               <pb n="46" facs="unknown:049118_0023_10265BCFA7F8BA20"/>
                <p>
                   <figure/>
                </p>
@@ -789,7 +790,7 @@ They broke my Pitcher,</l>
                   <hi>Maxim.</hi> We may be as good as we pleaſe, if we pleaſe to be good.</p>
             </div>
             <div type="song">
-               <pb n="47" facs="tcp:049118_0023_10265BCFA7F8BA20"/>
+               <pb n="47" facs="unknown:049118_0023_10265BCFA7F8BA20"/>
                <head>A DOLEFUL DITTY.</head>
                <p>
                   <figure/>
@@ -809,7 +810,7 @@ They broke my Pitcher,</l>
                   <l>They had not then been drown'd.</l>
                </lg>
                <lg n="3">
-                  <pb n="48" facs="tcp:049118_0024_10265BD3A2729698"/>
+                  <pb n="48" facs="unknown:049118_0024_10265BD3A2729698"/>
                   <head>III.</head>
                   <l>Ye Parents who have Children dear,</l>
                   <l>And eke ye that have none,</l>
@@ -821,7 +822,7 @@ They broke my Pitcher,</l>
                   <hi>Trumpington</hi>'s Travels.</bibl>
             </div>
             <div type="song">
-               <pb n="49" facs="tcp:049118_0024_10265BD3A2729698"/>
+               <pb n="49" facs="unknown:049118_0024_10265BD3A2729698"/>
                <p>
                   <figure/>
                </p>
@@ -839,7 +840,7 @@ They broke my Pitcher,</l>
                   <hi>Maxim.</hi> The ſureſt Way to gain our Ends is to moderate our Deſires.</p>
             </div>
             <div type="song">
-               <pb n="50" facs="tcp:049118_0025_10265BD55AC71270"/>
+               <pb n="50" facs="unknown:049118_0025_10265BD55AC71270"/>
                <p>
                   <figure/>
                </p>
@@ -857,7 +858,7 @@ They broke my Pitcher,</l>
                   <hi>Maxim.</hi> He that will be his own Maſter, has often a Fool for his Scholar.</p>
             </div>
             <div type="song">
-               <pb n="51" facs="tcp:049118_0025_10265BD55AC71270"/>
+               <pb n="51" facs="unknown:049118_0025_10265BD55AC71270"/>
                <p>
                   <figure/>
                </p>
@@ -877,7 +878,7 @@ They broke my Pitcher,</l>
                   <l>The Streets were ſo broad,</l>
                   <l>The Lanes were ſo narrow,</l>
                   <l>
-                     <pb n="52" facs="tcp:049118_0026_10265BD96FF5A238"/>
+                     <pb n="52" facs="unknown:049118_0026_10265BD96FF5A238"/>
 I was fore'd to bring my Wife home</l>
                   <l>In a Wheel-barrow;</l>
                   <l>The Wheel-barrow broke,</l>
@@ -889,7 +890,7 @@ I was fore'd to bring my Wife home</l>
                   <hi>Maxim.</hi> Provide againſt the worſt, and hope for the beſt.</p>
             </div>
             <div type="song">
-               <pb n="53" facs="tcp:049118_0026_10265BD96FF5A238"/>
+               <pb n="53" facs="unknown:049118_0026_10265BD96FF5A238"/>
                <p>
                   <figure/>
                </p>
@@ -907,7 +908,7 @@ I was fore'd to bring my Wife home</l>
                   <hi>Maxim.</hi> Idleneſs hath no Advocate, but many Friends.</p>
             </div>
             <div type="song">
-               <pb n="54" facs="tcp:049118_0027_10265BDC558C7AC0"/>
+               <pb n="54" facs="unknown:049118_0027_10265BDC558C7AC0"/>
                <p>
                   <figure/>
                </p>
@@ -923,7 +924,7 @@ I was fore'd to bring my Wife home</l>
                   <hi>Maxim.</hi> If we do not govern our Paſſions, our Paſſions will govern us.</p>
             </div>
             <div type="song">
-               <pb n="55" facs="tcp:049118_0027_10265BDC558C7AC0"/>
+               <pb n="55" facs="unknown:049118_0027_10265BDC558C7AC0"/>
                <p>
                   <figure/>
                </p>
@@ -940,13 +941,13 @@ I was fore'd to bring my Wife home</l>
                   <l>And ſcratch'd them in again.</l>
                </lg>
                <p>
-                  <pb n="56" facs="tcp:049118_0028_10265BDDDC0B0FD8"/>
+                  <pb n="56" facs="unknown:049118_0028_10265BDDDC0B0FD8"/>
 How happy it was for the Man to ſcratch his Eyes in again, when they were ſcratch'd out! But he was a Blockhead, or he would have kept himſelf out of the Hedge, and not been ſcratch'd at all.</p>
                <bibl>
                   <hi>Wiſeman's</hi> new Way to Wiſdom.</bibl>
             </div>
             <div type="song">
-               <pb n="57" facs="tcp:049118_0028_10265BDDDC0B0FD8"/>
+               <pb n="57" facs="unknown:049118_0028_10265BDDDC0B0FD8"/>
                <p>
                   <figure/>
                </p>
@@ -962,7 +963,7 @@ How happy it was for the Man to ſcratch his Eyes in again, when they were ſcra
                </lg>
             </div>
             <div type="song">
-               <pb n="58" facs="tcp:049118_0029_10265BE1F80ABDA0"/>
+               <pb n="58" facs="unknown:049118_0029_10265BE1F80ABDA0"/>
                <p>
                   <figure/>
                </p>
@@ -977,7 +978,7 @@ How happy it was for the Man to ſcratch his Eyes in again, when they were ſcra
                   <hi>Tom Tinker</hi>'s Dog is a very good Dog, and an honeſter Dog than his Maſter.</p>
             </div>
             <div type="song">
-               <pb n="59" facs="tcp:049118_0029_10265BE1F80ABDA0"/>
+               <pb n="59" facs="unknown:049118_0029_10265BE1F80ABDA0"/>
                <p>
                   <figure/>
                </p>
@@ -995,7 +996,7 @@ How happy it was for the Man to ſcratch his Eyes in again, when they were ſcra
                   <hi>Maxim.</hi> Bad Habits are eaſier conquered To<g ref="char:EOLhyphen"/>day than To-morrow.</p>
             </div>
             <div type="song">
-               <pb n="60" facs="tcp:049118_0030_10265BE4C0657890"/>
+               <pb n="60" facs="unknown:049118_0030_10265BE4C0657890"/>
                <p>
                   <figure/>
                </p>
@@ -1018,10 +1019,10 @@ How happy it was for the Man to ſcratch his Eyes in again, when they were ſcra
                </lg>
                <p>What lazy Rogues were theſe to lie in Bed ſo long; I dare ſay they have no Cloaths to their Backs; <hi>for Lazineſs clothes a Man with Rags.</hi>
                </p>
-               <pb n="61" facs="tcp:049118_0030_10265BE4C0657890"/>
+               <pb n="61" facs="unknown:049118_0030_10265BE4C0657890"/>
             </div>
             <div type="song">
-               <pb n="62" facs="tcp:049118_0031_10265BE646E05870"/>
+               <pb n="62" facs="unknown:049118_0031_10265BE646E05870"/>
                <p>
                   <figure/>
                </p>
@@ -1039,7 +1040,7 @@ How happy it was for the Man to ſcratch his Eyes in again, when they were ſcra
                   <hi>Maxim.</hi> Either ſay nothing of the Abſent, or ſpeak like a Friend.</p>
             </div>
             <div type="song">
-               <pb n="63" facs="tcp:049118_0031_10265BE646E05870"/>
+               <pb n="63" facs="unknown:049118_0031_10265BE646E05870"/>
                <p>
                   <figure/>
                </p>
@@ -1059,7 +1060,7 @@ How happy it was for the Man to ſcratch his Eyes in again, when they were ſcra
                   <hi>Note.</hi> If he acts as Conſtable in this Caſe, the Cook muſt ſurely be the Juſtice of Peace.</p>
             </div>
             <div type="song">
-               <pb n="64" facs="tcp:049118_0032_10265BEA350AF2F0"/>
+               <pb n="64" facs="unknown:049118_0032_10265BEA350AF2F0"/>
                <p>
                   <figure/>
                </p>
@@ -1079,7 +1080,7 @@ How happy it was for the Man to ſcratch his Eyes in again, when they were ſcra
                   <hi>Maxim.</hi> Riches ſerve a wiſe Man, and govern a Fool.</p>
             </div>
             <div type="song">
-               <pb n="65" facs="tcp:049118_0032_10265BEA350AF2F0"/>
+               <pb n="65" facs="unknown:049118_0032_10265BEA350AF2F0"/>
                <p>
                   <figure/>
                </p>
@@ -1103,7 +1104,7 @@ How happy it was for the Man to ſcratch his Eyes in again, when they were ſcra
                   <hi>Maxim.</hi> A Bird in the Hand is work two in the Buſh.</p>
             </div>
             <div type="song">
-               <pb n="66" facs="tcp:049118_0033_10265BEBE624D8C8"/>
+               <pb n="66" facs="unknown:049118_0033_10265BEBE624D8C8"/>
                <p>
                   <figure/>
                </p>
@@ -1117,7 +1118,7 @@ How happy it was for the Man to ſcratch his Eyes in again, when they were ſcra
                   <l>Up the Ladder and down the Wall,</l>
                   <l>A Halſpenny Loaf will ſerve us all</l>
                   <l>
-                     <pb n="67" facs="tcp:049118_0033_10265BEBE624D8C8"/>
+                     <pb n="67" facs="unknown:049118_0033_10265BEBE624D8C8"/>
 But when the Loaf is gone, what will you do?</l>
                   <l>Thoſe who would eat, muſt work—'tis true.</l>
                </lg>
@@ -1125,7 +1126,7 @@ But when the Loaf is gone, what will you do?</l>
                   <hi>Maxim.</hi> All work and no play, makes <hi>Jack</hi> a dull Boy.</p>
             </div>
             <div type="song">
-               <pb n="68" facs="tcp:049118_0034_10265BF12A9D8FA8"/>
+               <pb n="68" facs="unknown:049118_0034_10265BF12A9D8FA8"/>
                <p>
                   <figure/>
                </p>
@@ -1139,14 +1140,14 @@ But when the Loaf is gone, what will you do?</l>
                   <l>Cou'd you, without you cou'd, cou'd ye?</l>
                </lg>
                <p>
-                  <pb n="69" facs="tcp:049118_0034_10265BF12A9D8FA8"/>
+                  <pb n="69" facs="unknown:049118_0034_10265BF12A9D8FA8"/>
                   <hi>Note.</hi> This is a new Way of handling an old Argument, ſaid to be invented by a famous Senator; but it has ſomething in it of Gothic Conſtruction.</p>
                <bibl>
                   <hi>Sanderſon.</hi>
                </bibl>
             </div>
             <div type="song">
-               <pb n="70" facs="tcp:049118_0035_10265BF2AFE08010"/>
+               <pb n="70" facs="unknown:049118_0035_10265BF2AFE08010"/>
                <p>
                   <figure/>
                </p>
@@ -1163,13 +1164,13 @@ But when the Loaf is gone, what will you do?</l>
                   <l>And knows this is the Fount of Learning.</l>
                </lg>
                <p>
-                  <pb n="71" facs="tcp:049118_0035_10265BF2AFE08010"/>
+                  <pb n="71" facs="unknown:049118_0035_10265BF2AFE08010"/>
                   <hi>Note.</hi> This is the moſt learned Ditty in the World; for indeed there is no Song can be made without the Aid of this, it being the Gamut and Ground Work of them all.</p>
                <bibl>
                   <hi>Mope's</hi> Geography of the Mind.</bibl>
             </div>
             <div type="song">
-               <pb n="72" facs="tcp:049118_0036_10265BF43B641618"/>
+               <pb n="72" facs="unknown:049118_0036_10265BF43B641618"/>
                <p>
                   <figure/>
                </p>
@@ -1186,7 +1187,7 @@ But when the Loaf is gone, what will you do?</l>
                   <hi>Huggleford</hi> on Hunger.</bibl>
             </div>
             <div type="song">
-               <pb n="73" facs="tcp:049118_0036_10265BF43B641618"/>
+               <pb n="73" facs="unknown:049118_0036_10265BF43B641618"/>
                <p>
                   <figure/>
                </p>
@@ -1204,7 +1205,7 @@ But when the Loaf is gone, what will you do?</l>
                <gap reason="missing" extent="3 pages">
                   <desc>〈3 pages missing〉</desc>
                </gap>
-               <pb n="77" facs="tcp:049118_0037_10265BF722E07780"/>
+               <pb n="77" facs="unknown:049118_0037_10265BF722E07780"/>
                <l>YOU ſpotted Snakes, with double Tongue</l>
                <l>Thorny hedge-hogs, be not ſeen;</l>
                <l>Newts and Blind-worms, do no Wrong;</l>
@@ -1218,7 +1219,7 @@ But when the Loaf is gone, what will you do?</l>
                <l>So good Night, with lullaby.</l>
             </div>
             <div type="song">
-               <pb n="78" facs="tcp:049118_0038_10265BFC54865948"/>
+               <pb n="78" facs="unknown:049118_0038_10265BFC54865948"/>
                <l>TAKE, oh! take thoſe Lips away,</l>
                <l>That ſo ſweetly were for-ſworn;</l>
                <l>And thoſe Eyes, the Break of Day,</l>
@@ -1227,7 +1228,7 @@ But when the Loaf is gone, what will you do?</l>
                <l>Seals of Love, but ſeal'd in vain.</l>
             </div>
             <div type="song">
-               <pb n="79" facs="tcp:049118_0038_10265BFC54865948"/>
+               <pb n="79" facs="unknown:049118_0038_10265BFC54865948"/>
                <head>SPRING.</head>
                <l>WHEN Daiſies pied, and Vio<g ref="char:EOLhyphen"/>lets blue,</l>
                <l>And Lady-ſmocks all Silver-white;</l>
@@ -1243,7 +1244,7 @@ But when the Loaf is gone, what will you do?</l>
                <l>When Turtles tread, and Rooks and Daws,</l>
                <l>And Maidens bleach their Summer ſmocks:</l>
                <l>
-                  <pb n="80" facs="tcp:049118_0039_10265BFDD82CD3D8"/>
+                  <pb n="80" facs="unknown:049118_0039_10265BFDD82CD3D8"/>
 The Cuckow then on every Tree,</l>
                <l>Mocks married Men, for thus ſings he:</l>
                <l>Cuckow!</l>
@@ -1261,7 +1262,7 @@ The Cuckow then on every Tree,</l>
                <l>Tu-whit! to-whoo;</l>
                <l>A merry Note,</l>
                <l>
-                  <pb n="81" facs="tcp:049118_0039_10265BFDD82CD3D8"/>
+                  <pb n="81" facs="unknown:049118_0039_10265BFDD82CD3D8"/>
 While greaſy <hi>Joan</hi> doth keel the Pot.</l>
                <l>When all around the Wind doth blow</l>
                <l>And coughing <gap reason="illegible: indecipherable" extent="1 span">
@@ -1290,7 +1291,7 @@ While greaſy <hi>Joan</hi> doth keel the Pot.</l>
                   </gap> Pot.</l>
             </div>
             <div type="song">
-               <pb n="82" facs="tcp:049118_0040_10263B250F908710"/>
+               <pb n="82" facs="unknown:049118_0040_10263B250F908710"/>
                <l>TELL me where is Fancy bred,</l>
                <l>Or in the Heart or in the Head?</l>
                <l>How begot, how nouriſhed?</l>
@@ -1303,7 +1304,7 @@ While greaſy <hi>Joan</hi> doth keel the Pot.</l>
                <l>Ding, dong, Bell.</l>
             </div>
             <div type="song">
-               <pb n="83" facs="tcp:049118_0040_10263B250F908710"/>
+               <pb n="83" facs="unknown:049118_0040_10263B250F908710"/>
                <l>UNDER the greenwood Tree,</l>
                <l>Who loves to lie with me,</l>
                <l>And tune his merry Note,</l>
@@ -1314,7 +1315,7 @@ While greaſy <hi>Joan</hi> doth keel the Pot.</l>
                <l>But Winter and rough Weather.</l>
             </div>
             <div type="song">
-               <pb n="84" facs="tcp:049118_0041_10265C0475017158"/>
+               <pb n="84" facs="unknown:049118_0041_10265C0475017158"/>
                <lg>
                   <l>WHO doth Ambition ſhun,</l>
                   <l>And loves to lie i' th' Sun,</l>
@@ -1337,7 +1338,7 @@ While greaſy <hi>Joan</hi> doth keel the Pot.</l>
                </lg>
             </div>
             <div type="song">
-               <pb n="85" facs="tcp:049118_0041_10265C0475017158"/>
+               <pb n="85" facs="unknown:049118_0041_10265C0475017158"/>
                <lg>
                   <l>BLOW, blow, thou Winter Wind,</l>
                   <l>Thou art not ſo unkind</l>
@@ -1361,7 +1362,7 @@ While greaſy <hi>Joan</hi> doth keel the Pot.</l>
                </lg>
             </div>
             <div type="song">
-               <pb n="86" facs="tcp:049118_0042_10263B2795FEDC00"/>
+               <pb n="86" facs="unknown:049118_0042_10263B2795FEDC00"/>
                <l>O Miſtreſs mine, where are you running?</l>
                <l>O ſtay and hear, your true Love's coming,</l>
                <l>That can ſing both high and low.</l>
@@ -1376,7 +1377,7 @@ While greaſy <hi>Joan</hi> doth keel the Pot.</l>
                <l>Youth's a Stuff will not endure</l>
             </div>
             <div type="song">
-               <pb n="87" facs="tcp:049118_0042_10263B2795FEDC00"/>
+               <pb n="87" facs="unknown:049118_0042_10263B2795FEDC00"/>
                <l>WHAT ſhall he have that kill'd the Deer?</l>
                <l>His leather ſkin and Horns to wear;</l>
                <l>Then ſing him home:—take thou no Scorn</l>
@@ -1388,7 +1389,7 @@ While greaſy <hi>Joan</hi> doth keel the Pot.</l>
                <l>Is not a thing to laugh to ſcorn.</l>
             </div>
             <div type="song">
-               <pb n="88" facs="tcp:049118_0043_10265C0600652A70"/>
+               <pb n="88" facs="unknown:049118_0043_10265C0600652A70"/>
                <l>WHEN Daffodils begin to 'pear,</l>
                <l>With heigh! the Doxy over the Dale;</l>
                <l>Why then come in the ſweet o'th' Year,</l>
@@ -1406,14 +1407,14 @@ While greaſy <hi>Joan</hi> doth keel the Pot.</l>
                <l>While we lay tumbling in the Hay.</l>
             </div>
             <div type="song">
-               <pb n="89" facs="tcp:049118_0043_10265C0600652A70"/>
+               <pb n="89" facs="unknown:049118_0043_10265C0600652A70"/>
                <l>JOG on, jog on, the foot path Way,</l>
                <l>And merrily mend the Style-a,</l>
                <l>A merry Heart goes all the Day,</l>
                <l>Your ſad tires in a Mile-a.</l>
             </div>
             <div type="song">
-               <pb n="90" facs="tcp:049118_0044_10265C07875BA2F0"/>
+               <pb n="90" facs="unknown:049118_0044_10265C07875BA2F0"/>
                <lg>
                   <l>ORPHEUS with his Lute made Trees,</l>
                   <l>And the Mountain Tops that freeze,</l>
@@ -1432,7 +1433,7 @@ While greaſy <hi>Joan</hi> doth keel the Pot.</l>
                </lg>
             </div>
             <div type="song">
-               <pb n="91" facs="tcp:049118_0044_10265C07875BA2F0"/>
+               <pb n="91" facs="unknown:049118_0044_10265C07875BA2F0"/>
                <l>HARK, hark! the Lark at</l>
                <l>Heav'n's Gate ſings,</l>
                <l>And <hi>Phebus</hi> 'gins ariſe,</l>
@@ -1445,7 +1446,7 @@ While greaſy <hi>Joan</hi> doth keel the Pot.</l>
                <l>Ariſe, ariſe.</l>
             </div>
             <div type="song">
-               <pb n="92" facs="tcp:049118_0045_10265C0A5171BA90"/>
+               <pb n="92" facs="unknown:049118_0045_10265C0A5171BA90"/>
                <l>THE poor Soul ſat ſinging by a Sycamore-tree,</l>
                <l>Her Hand on her Boſom, her Head on her Knee,</l>
                <l>The freſh Streams ran by her, and murmur'd her Moans,</l>
@@ -1460,7 +1461,7 @@ While greaſy <hi>Joan</hi> doth keel the Pot.</l>
       </body>
       <back>
          <div type="table">
-            <pb n="93" facs="tcp:049118_0045_10265C0A5171BA90"/>
+            <pb n="93" facs="unknown:049118_0045_10265C0A5171BA90"/>
             <p>
                <table>
                   <head>LESSON I.</head>
@@ -1570,7 +1571,7 @@ While greaſy <hi>Joan</hi> doth keel the Pot.</l>
                </table>
             </p>
             <p>
-               <pb n="94" facs="tcp:049118_0046_10265C0E5972A218"/>
+               <pb n="94" facs="unknown:049118_0046_10265C0E5972A218"/>
                <table>
                   <head>LESSON III.</head>
                   <row>
@@ -1717,7 +1718,7 @@ While greaſy <hi>Joan</hi> doth keel the Pot.</l>
                </table>
             </p>
             <p>
-               <pb n="95" facs="tcp:049118_0046_10265C0E5972A218"/>
+               <pb n="95" facs="unknown:049118_0046_10265C0E5972A218"/>
                <table>
                   <head>LESSON V.</head>
                   <row>
@@ -1848,7 +1849,7 @@ While greaſy <hi>Joan</hi> doth keel the Pot.</l>
                   </row>
                </table>
             </p>
-            <pb facs="tcp:049118_0047_10265C0FE0E2E648"/>
+            <pb facs="unknown:049118_0047_10265C0FE0E2E648"/>
          </div>
       </back>
    </text>
